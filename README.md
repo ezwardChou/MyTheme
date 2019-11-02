@@ -1,4 +1,5 @@
 # MyTheme
  My Xcode theme file 
 
-![Img](preview.png)
+![Img](https://github.com/ezwardChou/MyTheme/blob/master/preview.png)
+
